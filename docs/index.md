@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: Evan's blog
+heroText: Jonas Wolfxin's Blog
 tagline: Web前端技术博客，积跬步以至千里，致敬每个爱学习的你。
 # actionText: 立刻进入 →
 # actionLink: /web/
@@ -29,9 +29,10 @@ features: # 可选的
 
 
 <!-- 小熊猫 -->
-<!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
+<img src="/img/panda-waving.png" class="panda no-zoom" style="width: 100px;height: 80px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: -1rem;z-index: 1;">
 
 <!--
+
 ## 关于
 
 ### 📚Blog
